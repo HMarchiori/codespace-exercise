@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.pucrs.hmarchiori.ContaTest" time="0.076" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.pucrs.hmarchiori.ContaTest" time="0.042" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/local/sdkman/candidates/java/21.0.5-ms/lib"/>
-    <property name="sun.java.command" value="/workspaces/codespace-exercise/exemplo/target/surefire/surefirebooter14692688917368632587.jar /workspaces/codespace-exercise/exemplo/target/surefire 2025-03-14T00-56-42_332-jvmRun1 surefire11968655846544304335tmp surefire_011170468743952917874tmp"/>
+    <property name="sun.java.command" value="/workspaces/codespace-exercise/exemplo/target/surefire/surefirebooter1083684783284011224.jar /workspaces/codespace-exercise/exemplo/target/surefire 2025-03-14T00-56-49_569-jvmRun1 surefire5961790479261374134tmp surefire_010058406649680798019tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="br.pucrs.hmarchiori.ContaTest"/>
     <property name="surefire.test.class.path" value="/workspaces/codespace-exercise/exemplo/target/test-classes:/workspaces/codespace-exercise/exemplo/target/classes:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.1/junit-jupiter-5.9.1.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/home/codespace/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/home/codespace/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/workspaces/codespace-exercise/exemplo/target/surefire/surefirebooter14692688917368632587.jar"/>
+    <property name="surefire.real.class.path" value="/workspaces/codespace-exercise/exemplo/target/surefire/surefirebooter1083684783284011224.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.5+11-LTS"/>
     <property name="user.name" value="codespace"/>
@@ -55,6 +55,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="sacarTest" classname="br.pucrs.hmarchiori.ContaTest" time="0.053"/>
+  <testcase name="sacarTest" classname="br.pucrs.hmarchiori.ContaTest" time="0.031"/>
   <testcase name="depositarTest" classname="br.pucrs.hmarchiori.ContaTest" time="0"/>
 </testsuite>
